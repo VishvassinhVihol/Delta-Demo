@@ -1,2 +1,2 @@
 # Delta-Demo
-Demo purpose only
+Demo purpose only.
